@@ -30,6 +30,19 @@ Built using **Snowflake SQL**, with a Streamlit dashboard for visualisation.
 
 All 100 tickets are fictional and created for demonstration purposes. No real customer or company data is used.
 
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](executive-overview.png)
+
+### Engineering Visibility
+![Engineering Visibility](engineering-visibility.png)
+
+### Support Action Centre
+![Support Action Centre](support-action-centre.png)
+
+
 ## Project Status
 
 SQL database and reporting logic complete. Streamlit dashboard built in Snowflake; application source code and screenshots will be added to this repository separately.
